@@ -59,13 +59,13 @@ Here are real examples of our system in action:
 
 ## 👥 Development Team
 
-| Name               | ID       | Key Contributions                                            |
-| ------------------ | -------- | ------------------------------------------------------------ |
-| Mustafa Abbas      | 25100079 | Project documentation, LLM research, Pipeline Architecture   |
-| Raahem Nabeel      | 25100079 | Pipeline architecture, debugging                             |
-| Ibrahim Farrukh    | 25100227 | Data collection lead, course outlines, Pipeline Architecture |
-| Jawad Saeed        | 25100094 | Vector embeddings, LLM experimentation                       |
-| Safiullah Sarfaraz | 25100227 | Data collection, EDA, annotation, Pipeline Architecture      |
+| Name               | Key Contributions                                            |
+| ------------------ | ------------------------------------------------------------ |
+| Mustafa Abbas      | Project documentation, LLM research, Pipeline Architecture   |
+| Raahem Nabeel      | Pipeline architecture, debugging                             |
+| Ibrahim Farrukh    | Data collection lead, course outlines, Pipeline Architecture |
+| Jawad Saeed        | Vector embeddings, LLM experimentation                       |
+| Safiullah Sarfaraz | Data collection, EDA, annotation, Pipeline Architecture      |
 
 ## 🚀 Getting Started
 
