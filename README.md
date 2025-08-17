@@ -2,7 +2,7 @@
 
 _A Retrieval-Augmented Generation (RAG) model for academic course selection assistance at LUMS_
 
-![Project Banner](RAG_Poster.png)
+![Project Banner](assets\RAG_Poster.png)
 
 ## 📌 Project Overview
 
@@ -44,6 +44,18 @@ The LUMS Course Assistant is an advanced AI system designed to help students at 
 3. **Retrieval**: Similarity-based document retrieval
 4. **Generation**: Mistral-7B-Instruct with custom prompt engineering
 5. **Memory**: `ConversationBufferMemory` (K=3 interactions)
+
+## 💡 Successful Use Cases
+
+Here are real examples of our system in action:
+
+### Case 1: Instructor Inquiry
+
+![Inquiry one](assets\use_case_introtoAI.png)
+
+### Case 2: Course Recommendation
+
+![inquiry two](assets\Use_case_econ_meco.png)
 
 ## 👥 Development Team
 
