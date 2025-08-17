@@ -2,7 +2,7 @@
 
 _A Retrieval-Augmented Generation (RAG) model for academic course selection assistance at LUMS_
 
-![Project Banner](assets\RAG_Poster.png)
+![Project Banner](assets/RAG_Poster.png)
 
 ## 📌 Project Overview
 
@@ -51,11 +51,11 @@ Here are real examples of our system in action:
 
 ### Case 1: Instructor Inquiry
 
-![Inquiry one](assets\use_case_introtoAI.png)
+![Inquiry one](assets/use_case_introtoAI.png)
 
 ### Case 2: Course Recommendation
 
-![inquiry two](assets\Use_case_econ_meco.png)
+![inquiry two](assets/Use_case_econ_meco.png)
 
 ## 👥 Development Team
 
